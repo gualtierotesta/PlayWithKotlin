@@ -17,3 +17,6 @@ nb*.xml
 .settings
 target
 *.war
+build
+out
+.gradle
